@@ -11,6 +11,7 @@ Una pseudoclase es una palabra clave que se añade a los selectores y que especi
 
 selector:pseudoclase {propiedad: valor;}
 se agregaron nuevos estilos
+hola a todos
 
 
 
